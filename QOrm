@@ -1,0 +1,17 @@
+#include "core/qorm.h"
+
+#include "core/qormobject.h"
+#include "core/qormattributeinfo.h"
+#include "core/qormtableinfo.h"
+#include "core/qormloader.h"
+#include "core/qormsaver.h"
+
+//#include "model/qormabstractmodel.h"
+#include "model/qormtablemodel.h"
+//#include "model/qormrelation1nmodel.h"
+//#include "model/qormrelation11model.h"
+//#include "model/qormobjectmodel.h"
+
+//#include "gui/qormrelationdelegate.h"
+//#include "gui/qormforeignkeydelegate.h"
+//#include "gui/qormcomboboxhelper.h"
